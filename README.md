@@ -21,10 +21,10 @@ Convin Task
 `python manage.py createsuperuser`
 
 ## Run the server
-`python manage.py runserver` the application will be running on port 8000 **http://0.0.0.0:8000/**
-* `Admin page : http://0.0.0.0:8000/admin`
-* `Tasks : http://0.0.0.0:8000/apis/v1/`
-* `Task Tracker : http://0.0.0.0:8000/apis/v2/`
+`python manage.py runserver` the application will be running on port 8000 ** http://127.0.0.1:8000/**
+* `Admin page :  http://127.0.0.1:8000/admin`
+* `Tasks :  http://127.0.0.1:8000/apis/v1/`
+* `Task Tracker :  http://127.0.0.1:8000/apis/v2/`
 
 ## End Points
 
